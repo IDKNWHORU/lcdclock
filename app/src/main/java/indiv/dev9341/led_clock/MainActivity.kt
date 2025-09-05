@@ -1,4 +1,4 @@
-package com.example.led_clock
+package indiv.dev9341.led_clock
 
 import android.annotation.SuppressLint
 import android.os.Bundle
